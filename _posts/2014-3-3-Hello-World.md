@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: hackseq 2018!
 ---
 
+**Markdown Text**
+Posts use markdown text in '.md' files. Surround text with one star (*) for *italicized text* and two stars (**) for **bold text**.
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+*Adding Images*
+Add your images to your repo and be sure to commit them.
+To add images to a post: "![figure title(link to image)]"
+![hackseq(https://raw.githubusercontent.com/adossantos1/adossantos1/master/_posts/hackseq.png)]
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
